@@ -1,0 +1,9 @@
+{
+    "provider": "openai",
+    "model": "gpt-4o",
+    "api_key": "",
+    "anthropic_key": "",
+    "anthropic_model": "claude-sonnet-4-20250514",
+    "ai_enhance": true,
+    "ai_temperature": 0.8000000000000000444089209850062616169452667236328125
+}
