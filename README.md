@@ -40,7 +40,6 @@ real developers leave behind.
 ## 📑 Table of Contents
 
 - [✨ Features](#-features)
-- [🎬 Demo](#-demo)
 - [🧠 How It Works](#-how-it-works)
 - [🏗 Architecture](#-architecture)
 - [🌍 Supported Languages](#-supported-languages)
