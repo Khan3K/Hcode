@@ -56,7 +56,8 @@ $masked = ['success' => true];
 
 $maskedFields = ['provider', 'model', 'ai_enhance', 'ai_temperature', 'system_prompt', 'max_tokens',
     'openai_model', 'anthropic_model', 'gemini_model', 'deepseek_model',
-    'groq_model', 'together_model', 'deepinfra_model', 'openrouter_model'];
+    'groq_model', 'together_model', 'deepinfra_model', 'openrouter_model',
+    'pollinations_model', 'puter_model'];
 
 foreach ($maskedFields as $f) {
     $masked[$f] = $settings[$f] ?? '';
