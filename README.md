@@ -16,9 +16,9 @@ real developers leave behind.
 
 <br/>
 
-[![Version](https://img.shields.io/badge/version-2.0.0-0EA5E9?style=flat-square)]()
-[![PHP](https://img.shields.io/badge/PHP-8.1%2B-777BB4?style=flat-square&logo=php&logoColor=white)]()
-[![License](https://img.shields.io/badge/license-MIT-22C55E?style=flat-square)]()
+[![Version](https://img.shields.io/badge/version-2.0.0-0EA5E9?style=flat-square)](https://github.com/Khan3K/Hcode)
+[![PHP](https://img.shields.io/badge/PHP-8.1%2B-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+[![License](https://img.shields.io/badge/license-MIT-22C55E?style=flat-square)](LICENSE)
 [![Languages](https://img.shields.io/badge/languages-11-F59E0B?style=flat-square)]()
 [![Status](https://img.shields.io/badge/status-active-22C55E?style=flat-square)]()
 [![AI Engine](https://img.shields.io/badge/AI-OpenAI%20%7C%20Anthropic%20%7C%20Pollinations-8B5CF6?style=flat-square)]()
