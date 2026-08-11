@@ -1,0 +1,17 @@
+{
+    "provider": "pollinations",
+    "model": "",
+    "ai_enhance": true,
+    "ai_temperature": 0.9,
+    "token_budget": 0,
+    "system_prompt": "",
+    "max_tokens": 4096,
+    "openai_model": "gpt-4o-mini",
+    "anthropic_model": "claude-3-5-haiku-20241022",
+    "gemini_model": "gemini-2.0-flash",
+    "deepseek_model": "deepseek-chat",
+    "groq_model": "llama-3.3-70b-versatile",
+    "together_model": "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "deepinfra_model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+    "openrouter_model": "meta-llama/llama-3.1-8b-instruct:free"
+}
