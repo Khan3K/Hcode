@@ -1,0 +1,29 @@
+# Dependencies
+/vendor/
+
+# Local environment files
+.env
+.env.local
+*.local
+
+# Composer
+composer.phar
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temp
+/tmp/
